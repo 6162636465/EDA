@@ -1,0 +1,24 @@
+#include <iostream>
+#include <cstdlib>
+using namespace std;
+//_____________________________________
+int vector[100]; 
+int contadorUno;
+//_______________________________________
+void insertarUno(int x)
+{
+  if(contadorUno<100)
+  {
+    vector[contadorUno]=x;
+    cout<<vector[contadorUno]<<",";
+  }
+}
+
+int main()
+{
+  for(int i=0;i<100;i++)
+    {
+      int a = rand() % 10;
+      insertarUno(a);
+    }
+}
