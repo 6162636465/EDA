@@ -1,4 +1,4 @@
-# Grupal-IA
+# Javier Oswaldo Alvarez Reyes 
 Presentacion de los resultados de las 3 distancias [1000,10000,50000]
 ## sin imprimir las distancias Tiempo:
 ![Screenshot_4](https://user-images.githubusercontent.com/40539959/190825638-714e303c-2ec8-4b61-8f49-8bc70bdb7191.png)
