@@ -1,4 +1,4 @@
-# Grupal-IA
+# EDA
 PRESENTACION DE Insercion en un R-tree
 
 ## POR:
